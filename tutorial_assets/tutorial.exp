@@ -1,0 +1,747 @@
+{
+  "nombre_experimento": "tutorial",
+  "texto_instrucciones": "",
+  "texto_consentimiento": "Se informa al participante de que su participación consistirá en la realización de una prueba de aprendizaje, la cual no tendrá ninguna repercusión negativa sobre su persona. \n El número de ACIERTOS o ERRORES obtenidos no significan ninguna valoración de sus capacidades individuales, dado que ello depende del tipo de prueba y edad del participante, por lo que en base a dichas variables, en algunas pruebas y en algunas etapas se suelen producir muchos errores y en otras pruebas o etapas muy pocos errores.\nLa prueba se realizará de forma individual y los datos recogidos en esta investigación se tratarán de forma colectiva, manteniendo el anonimato en todo momento. \nAdemás, el/la participante estará en su derecho de retirar el consentimiento cuando lo considere conveniente, oponiéndose a la colaboración sin ninguna consecuencia ni justificación necesaria, o dando por finalizada la prueba aunque esta no hubiera concluido.",
+  "n_comparaciones": 2,
+  "demora_muestra_comparacion": 0,
+  "intervalo_entre_ensayos": 0,
+  "tipo_presentacion_demora_cero":"simultanea",
+  "mostrar_num_ensayo": false,
+  "mostrar_countdown": false,
+  "n_ensayos_secuencia1": 72,
+  "n_repeticiones_secuencia1": 1,
+  "orden_aleatorio_secuencia1": false,
+  "criterio_porcentaje_s1_activo": false,
+  "criterio_porcentaje_s1_valor": 80,
+  "ruta_imagenes_s1": "banco_imagenes_tutorial",
+  "secuencia1_ensayos": [
+    {
+      "muestra_img_nombre": "Diapositiva1.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva2.PNG",
+        "Diapositiva3.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva4.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva5.PNG",
+        "Diapositiva6.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva7.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva8.PNG",
+        "Diapositiva9.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva10.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva11.PNG",
+        "Diapositiva12.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva13.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva14.PNG",
+        "Diapositiva15.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva16.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva17.PNG",
+        "Diapositiva18.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva19.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva20.PNG",
+        "Diapositiva21.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva22.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva23.PNG",
+        "Diapositiva24.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva25.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva26.PNG",
+        "Diapositiva27.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva28.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva29.PNG",
+        "Diapositiva30.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva31.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva32.PNG",
+        "Diapositiva33.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva34.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva35.PNG",
+        "Diapositiva36.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva37.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva38.PNG",
+        "Diapositiva39.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva40.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva41.PNG",
+        "Diapositiva42.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva43.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva44.PNG",
+        "Diapositiva45.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva46.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva47.PNG",
+        "Diapositiva48.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva49.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva50.PNG",
+        "Diapositiva51.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva52.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva53.PNG",
+        "Diapositiva54.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva55.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva56.PNG",
+        "Diapositiva57.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva58.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva59.PNG",
+        "Diapositiva60.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva61.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva62.PNG",
+        "Diapositiva63.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva64.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva65.PNG",
+        "Diapositiva66.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva67.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva68.PNG",
+        "Diapositiva69.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva70.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva71.PNG",
+        "Diapositiva72.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva73.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva74.PNG",
+        "Diapositiva75.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva76.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva77.PNG",
+        "Diapositiva78.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva79.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva80.PNG",
+        "Diapositiva81.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva82.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva83.PNG",
+        "Diapositiva84.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva85.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva86.PNG",
+        "Diapositiva87.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva88.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva89.PNG",
+        "Diapositiva90.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva91.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva92.PNG",
+        "Diapositiva93.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva94.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva95.PNG",
+        "Diapositiva96.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva97.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva98.PNG",
+        "Diapositiva99.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva100.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva101.PNG",
+        "Diapositiva102.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva103.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva104.PNG",
+        "Diapositiva105.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva106.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva107.PNG",
+        "Diapositiva108.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva109.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva110.PNG",
+        "Diapositiva111.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva112.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva113.PNG",
+        "Diapositiva114.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva115.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva116.PNG",
+        "Diapositiva117.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva118.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva119.PNG",
+        "Diapositiva120.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva121.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva122.PNG",
+        "Diapositiva123.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva124.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva125.PNG",
+        "Diapositiva126.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva127.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva128.PNG",
+        "Diapositiva129.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva130.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva131.PNG",
+        "Diapositiva132.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva133.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva134.PNG",
+        "Diapositiva135.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva136.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva137.PNG",
+        "Diapositiva138.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva139.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva140.PNG",
+        "Diapositiva141.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva142.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva143.PNG",
+        "Diapositiva144.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva145.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva146.PNG",
+        "Diapositiva147.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva148.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva149.PNG",
+        "Diapositiva150.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva151.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva152.PNG",
+        "Diapositiva153.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva154.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva155.PNG",
+        "Diapositiva156.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva157.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva158.PNG",
+        "Diapositiva159.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva160.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva161.PNG",
+        "Diapositiva162.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva163.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva164.PNG",
+        "Diapositiva165.PNG"
+      ],
+      "correcta": 0,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva166.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva167.PNG",
+        "Diapositiva168.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva169.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva170.PNG",
+        "Diapositiva171.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva172.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva173.PNG",
+        "Diapositiva174.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva175.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva176.PNG",
+        "Diapositiva177.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva178.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva179.PNG",
+        "Diapositiva180.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva181.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva182.PNG",
+        "Diapositiva183.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva184.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva185.PNG",
+        "Diapositiva186.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva187.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva188.PNG",
+        "Diapositiva189.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva190.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva191.PNG",
+        "Diapositiva192.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva193.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva194.PNG",
+        "Diapositiva195.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva196.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva197.PNG",
+        "Diapositiva198.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva199.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva200.PNG",
+        "Diapositiva201.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva202.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva203.PNG",
+        "Diapositiva204.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva205.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva206.PNG",
+        "Diapositiva207.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva208.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva209.PNG",
+        "Diapositiva210.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva211.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva212.PNG",
+        "Diapositiva213.PNG"
+      ],
+      "correcta": 1,
+      "retro": false,
+      "repetir_hasta_acierto": true
+    },
+    {
+      "muestra_img_nombre": "Diapositiva214.PNG",
+      "comparaciones_img_nombres": [
+        "Diapositiva215.PNG",
+        "Diapositiva216.PNG"
+      ],
+      "correcta": 1,
+      "retro": true,
+      "repetir_hasta_acierto": true
+    }
+  ],
+  "secuencia2_activa": false,
+  "n_ensayos_secuencia2": 0,
+  "n_repeticiones_secuencia2": 1,
+  "orden_aleatorio_secuencia2": false,
+  "criterio_porcentaje_s2_activo": false,
+  "criterio_porcentaje_s2_valor": 80,
+  "ruta_imagenes_s2": "",
+  "secuencia2_ensayos": []
+}
