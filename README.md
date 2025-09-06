@@ -207,3 +207,22 @@ ________________________________________________________________________________
 * El archivo Excel contiene dos hojas:
     * **Resumen**: Con los datos del participante y los porcentajes de acierto por secuencia.
     * **Resultados Detallados**: Un registro completo, ensayo por ensayo, de cada respuesta, su latencia en milisegundos, si fue correcta, etc.
+ 
+---
+
+## Licencia
+
+DiscondV2 se distribuye bajo la licencia **[Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)**.
+
+Esto significa que eres libre de:
+
+* **Compartir** — copiar y redistribuir el material en cualquier medio o formato.
+* **Adaptar** — remezclar, transformar y crear a partir del material.
+
+Bajo las siguientes condiciones:
+
+* **Atribución** — Debes dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios.
+* **NoComercial** — No puedes utilizar el material para una finalidad comercial.
+* **CompartirIgual** — Si remezclas, transformas o creas a partir del material, debes distribuir tus contribuciones bajo la misma licencia que el original.
+
+Puedes leer el texto legal completo y vinculante (en inglés) en el archivo `LICENSE` de este repositorio.
